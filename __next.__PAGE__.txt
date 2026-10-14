@@ -1,10 +1,10 @@
 1:"$Sreact.fragment"
-2:I[21757,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js"],"default"]
-3:I[61465,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js"],"default"]
-4:I[20348,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js"],"default"]
-5:I[5500,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js"],"Image"]
-19:I[95147,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js"],"default"]
-1a:I[29194,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js"],"default"]
+2:I[21757,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js"],"default"]
+3:I[61465,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js"],"default"]
+4:I[20348,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js"],"default"]
+5:I[5500,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js"],"Image"]
+19:I[95147,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js"],"default"]
+1a:I[29194,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js","/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js"],"default"]
 1b:I[97367,["/cs15-tokenized-stocks/_next/static/chunks/0g7ewx3bkljg5.js","/cs15-tokenized-stocks/_next/static/chunks/0d3tkj33oycf2.js"],"OutletBoundary"]
 1c:"$Sreact.suspense"
 :HL["/cs15-tokenized-stocks/_next/static/chunks/0we0286crmca0.css","style"]
@@ -26,6 +26,6 @@ f:["$","section",null,{"className":"expert replay-expert","id":"expert","childre
 14:["$","footer",null,{"className":"footer shell","children":[["$","div",null,{"className":"brand","children":[["$","span",null,{"className":"brand-mark","children":"B:C"}],["$","span",null,{"children":"BLOCKCAPITAL"}]]}],["$","p",null,{"children":"Материалы носят образовательный характер и не являются индивидуальной инвестиционной рекомендацией. Финансовый результат не гарантируется. Работа с цифровыми активами связана с риском полной потери средств."}],["$","div",null,{"className":"footer-links","children":[["$","a",null,{"href":"https://theblockcapital.ru/privacy","target":"_blank","rel":"noreferrer","children":"Политика конфиденциальности"}],["$","span",null,{"children":"© 2026 BlockCapital"}]]}]]}]
 15:["$","a",null,{"className":"mobile-cta","href":"#access","data-metrika-goal":"lead_form_cta_click","data-metrika-legacy-goal":"lead_form_scroll","data-metrika-placement":"mobile_fixed","children":["Открыть запись ",["$","span",null,{"aria-hidden":"true","children":"↓"}]]}]
 16:["$","link","0",{"rel":"stylesheet","href":"/cs15-tokenized-stocks/_next/static/chunks/0we0286crmca0.css","precedence":"next"}]
-17:["$","script","script-0",{"src":"/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..js","async":true}]
+17:["$","script","script-0",{"src":"/cs15-tokenized-stocks/_next/static/chunks/050p6-_rv0oz..ga4-f543d443fe68.js","async":true}]
 18:["$","$L1b",null,{"children":["$","$1c",null,{"name":"Next.MetadataOutlet","children":"$@1d"}]}]
 1d:null
